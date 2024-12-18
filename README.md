@@ -22,7 +22,7 @@ The key goals are:
 - Identify the most affected demographics (age, gender) for hypothyroidism.
   
 ## Dataset
-- Source: Kaggle - Thyroid Disease Detection
+- Source: Kaggle - Thyroid Disease Detection  https://www.kaggle.com/code/yasserhessein/thyroid-disease-detection-using-deep-learning 
 - Classes: Hypothyroid and Non-Hypothyroid
 - Features: Age, gender, medical history, thyroid test results
 
