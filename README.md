@@ -14,7 +14,7 @@ Hypothyroidism is a condition where the thyroid gland underperforms, leading to 
 - Sensitivity to cold
   
 ## Motivation:
-Being a 23-year-old female with hypothyroidism that was diagnosed late, I was motivated to study and analyze patterns associated with this condition. This project stems from a personal curiosity to understand the demographic and clinical factors that might contribute to better diagnosis and management.
+Being a 23-year-old female with hypothyroidism at an early age, I was motivated to study and analyze patterns associated with this condition. This project stems from a personal curiosity to understand the demographic and clinical factors that might contribute to better diagnosis and management.
 
 The key goals are:
 
